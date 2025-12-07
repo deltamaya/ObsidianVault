@@ -11,10 +11,14 @@
             "id": "4cb1651cfe751c85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "EnglishLearning/DailyTasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DailyTasks"
             }
           }
         ]
@@ -192,6 +196,11 @@
   },
   "active": "4cb1651cfe751c85",
   "lastOpenFiles": [
+    "EnglishLearning/Words/2025-12-07.md",
+    "EnglishLearning/DailyTasks.md",
+    "ComputerGraphicsNotes",
+    "Untitled.md",
+    "EnglishLearning/Collocations/2025-12-07.md",
     "Untitled.base",
     "Words/2025-12-07.md",
     "Collocations/2025-12-07.md",
