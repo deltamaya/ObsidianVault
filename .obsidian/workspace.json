@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,21 +197,22 @@
   },
   "active": "0b7f6dbc57db8ac0",
   "lastOpenFiles": [
-    "EnglishLearning/2025-12-10.md",
-    "EnglishLearning/2025-12-11.md",
-    "EnglishLearning/2025-12-09.md",
-    "LifeHack/配镜攻略.md",
-    "EnglishLearning/2025-12-07.md",
-    "EnglishLearning/DailyTasks.md",
-    "Untitled.base",
     "基于光线追踪的实时渲染系统功能划分.md",
+    "LifeHack/配镜攻略.md",
+    "EnglishLearning/2025-12-11.md",
+    "EnglishLearning/2025-12-10.md",
+    "University/RayTracing.md",
+    "University",
+    "Pasted image 20251208110809.png",
+    "EnglishLearning/2025-12-09.md",
+    "EnglishLearning/2025-12-07.md",
     "EnglishLearning/Untitled.md",
     "EnglishLearning/Collocations/2025-12-07.md",
-    "Pasted image 20251208110809.png",
     "Pasted image 20251208110728.png",
+    "EnglishLearning/DailyTasks.md",
     "LifeHack",
     "ComputerGraphicsNotes",
-    "Untitled.md",
+    "Untitled.base",
     "Words/2025-12-07.md",
     "Collocations/2025-12-07.md",
     "Words",
